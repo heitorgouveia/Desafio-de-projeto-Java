@@ -7,7 +7,7 @@ Importado a ferramenta java.util.Scanner para ler as entradas de dados.
 
 ### Class Main
 
-variável saldo definida em double no valor fixo de 510,00. 
+Variável saldo definida em double no valor fixo de 510,00. 
 
 Feito novo objeto através do atributo NEW Scanner para leitura de dados. 
 
